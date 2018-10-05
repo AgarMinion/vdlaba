@@ -1,5 +1,4 @@
 		<footer class="footer-basic-centered">
-
 			<p class="footer-company-motto">тут текст.</p>
 
 			<p class="footer-links">
